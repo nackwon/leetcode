@@ -1,4 +1,4 @@
-## Every Week Algorithm - [LeetCode](https://leetcode.com/)
+:fire: ## Every Week Algorithm - [LeetCode](https://leetcode.com/)
 
 <br/>
 
